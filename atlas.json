@@ -1,0 +1,9 @@
+{
+  "title": "etudes for erlang htmlbook",
+  "files": [
+    "chapter04.html",
+    "chapter03.html",
+    "chapter02.html"
+  ],
+  "theme": "oreillymedia/atlas_tech1c_theme"
+}
